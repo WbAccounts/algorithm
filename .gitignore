@@ -1,0 +1,4 @@
+*.o
+*.wxx
+.vscode
+.vscode/*
